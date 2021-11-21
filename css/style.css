@@ -22,11 +22,11 @@ section, header, footer {
 /*--  styling typography --*/
 
 h1 {
-    color: rgb(194, 63, 124);
+    color: rgb(194, 126, 63);
 }
 
 h2, blockquote {
-    color: rgb(70, 70, 70);
+    color: rgb(173, 119, 60);
 }
 
 p, blockquote {
@@ -103,15 +103,15 @@ nav a {
 
 nav :hover {
     border-bottom: none;
-    color: rgb(177, 34, 93);
+    color: rgb(228, 115, 23);
     transition: all 0.3s ease-in-out;
 }
 
 hr {
     margin: 100px 0;
     height: 1px;
-    background-color: rgb(101, 130, 150);
-    color: rgb(101, 130, 150);
+    background-color: rgb(17, 92, 105);
+    color: rgb(17, 85, 105);
     border: 0 none;
 }
 
