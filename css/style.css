@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #e9e9e9;
+    background: #1f2455;
     color: #333;
 }
 
@@ -22,7 +22,7 @@ section, header, footer {
 /*--  styling typography --*/
 
 h1 {
-    color: rgb(73, 104, 53);
+    color: rgb(231, 231, 231);
 }
 
 h2, blockquote {
