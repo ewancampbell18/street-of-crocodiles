@@ -103,15 +103,15 @@ nav a {
 
 nav :hover {
     border-bottom: none;
-    color: rgb(99, 133, 101);
+    color: rgb(177, 34, 93);
     transition: all 0.3s ease-in-out;
 }
 
 hr {
     margin: 100px 0;
     height: 1px;
-    background-color: rgb(52, 105, 17);
-    color: rgb(52, 105, 17);
+    background-color: rgb(101, 130, 150);
+    color: rgb(101, 130, 150);
     border: 0 none;
 }
 
