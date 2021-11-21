@@ -31,7 +31,7 @@ h2 {
 }
 
 blockquote {
-    color: rgb(10, 67, 100);
+    color: rgb(27, 100, 143);
 }
 
 p, blockquote {
@@ -40,7 +40,7 @@ p, blockquote {
 }
 
 h1 {
-    font-size: 5.455rem;
+    font-size: 5.3rem;
     margin-top: 2em;
 }
 
@@ -53,7 +53,7 @@ blockquote {
     font-size: 1.141rem;
     font-style: italic;
     hanging-punctuation: first;
-    text-indent: -0.75rem;
+    text-indent: -0.5rem;
 }
 
 cite {
