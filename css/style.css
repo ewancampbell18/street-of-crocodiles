@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #d8bb9b;
+    background: #ffd82d;
     color: rgb(36, 36, 36);
 }
 
@@ -22,11 +22,11 @@ section, header, footer {
 /*--  styling typography --*/
 
 h1 {
-    color: rgb(226, 179, 77);
+    color: rgb(36, 36, 36);
 }
 
 h2, blockquote {
-    color: rgb(235, 235, 235);
+    color: rgb(70, 70, 70);
 }
 
 p, blockquote {
@@ -65,7 +65,7 @@ header h2 {
 }
 
 a {
-    color: rgb(120, 172, 85);
+    color: rgb(36, 36, 36);
     text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background: rgb(99, 133, 101);
+    background: rgb(38, 156, 224);
     padding: 2em 0;
     font-size: 0.75rem;
 }
