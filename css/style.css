@@ -127,6 +127,9 @@ img {
     max-width: 100%;
 }
 
+ul{
+    list-style-type: none;
+}
 footer{
     text-align: center;
     font-size: 0.75rem;
