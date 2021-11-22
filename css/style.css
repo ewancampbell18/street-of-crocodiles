@@ -129,7 +129,10 @@ img {
 
 ul{
     list-style-type: none;
+    text-align: center;
+
 }
+
 footer{
     text-align: center;
     font-size: 0.75rem;
