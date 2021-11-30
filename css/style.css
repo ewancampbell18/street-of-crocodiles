@@ -28,10 +28,16 @@ section, header, footer {
     background:rgb(15, 101, 112) ;
     padding: 3rem 0;
     margin-bottom: 2em;
+    margin-top: 0.5em;
+}
+
+.dark2 {
+    background:rgb(15, 101, 112) ;
+    padding: 3rem 0;
 }
 
 .light {
-    background: #e9e9e9;
+    background: rgb(105, 165, 182);
     padding: 1rem 0;
 }
 
@@ -62,6 +68,7 @@ h1 {
 h2 {
     font-size: 1.7rem;
     margin: 3em 0 1em 0;
+    padding-top: 4rem;
 }
 
 blockquote {
@@ -85,7 +92,7 @@ cite {
 }
 
 a {
-    color: rgb(36, 36, 36);
+    color: #e9e9e9;
     text-decoration: none;
 }
 
@@ -130,10 +137,11 @@ nav :hover {
 hr {
     margin: 100px 0;
     height: 1px;
-    background-color: rgb(17, 92, 105);
-    color: rgb(17, 85, 105);
+    background-color: rgb(105, 165, 182);
+    color: rgb(105, 165, 182);
     border: 0 none;
 }
+
 
 img {
     display: block;
@@ -152,3 +160,4 @@ footer{
     text-align: center;
     font-size: 0.75rem;
 }
+
