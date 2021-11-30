@@ -22,6 +22,15 @@ section, header, footer {
 
 .font {
     color: #e9e9e9;
+    margin-top: -1rem;
+}
+
+.pull {
+    margin-top: -2rem;
+}
+
+.closer {
+    margin-top: -2.5rem;
 }
 
 .dark {
@@ -34,6 +43,7 @@ section, header, footer {
 .dark2 {
     background:rgb(15, 101, 112) ;
     padding: 3rem 0;
+    margin-top: 0rem;
 }
 
 .light {
@@ -44,7 +54,7 @@ section, header, footer {
 /*--  styling typography --*/
 
 h1 {
-    color: rgb(236, 158, 84);
+    color: rgb(248, 158, 74);
 }
 
 h2 {
@@ -62,7 +72,7 @@ p, blockquote {
 
 h1 {
     font-size: 6.45rem;
-    
+    margin-bottom: -2.5rem;
 }
 
 h2 {
@@ -137,11 +147,10 @@ nav :hover {
 hr {
     margin: 100px 0;
     height: 1px;
-    background-color: rgb(105, 165, 182);
-    color: rgb(105, 165, 182);
+    background-color: rgb(15, 101, 112);
+    color: rgb(15, 107, 111);
     border: 0 none;
 }
-
 
 img {
     display: block;
